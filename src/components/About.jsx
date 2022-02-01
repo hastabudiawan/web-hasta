@@ -18,11 +18,10 @@ function About() {
                                 <div className="skills">
                                     <h2 className="txt-orange">Skills</h2>
                                     <ul className="skills-set txt-white fs-18">
-                                        <li>Backend: PHP, Node JS, Laravel</li>
-                                        <li>Frontend: Javascript, React JS, Vue JS, Bootstrap, Tailwind, Typescript</li>
+                                        <li>Programming Language : PHP, Javascript</li>
+                                        <li>Framework : Laravel, React JS, Vue JS, Angular, Typescript, jQuery, Bootstrap, Tailwind CSS</li>
                                         <li>Database: MySQL</li>
                                         <li>Version Control: GIT</li>
-                                        <li>Software: Postman, Visual Studio Code</li>
                                     </ul>
                                 </div>
                                 <div className="education">
