@@ -6,16 +6,9 @@ function Projects() {
         <div className="container">
             <div className="row">                
                 <div className="col-12 col-xs-12">
-                    <div className="browser">
-                        <div className="browser-header">
-                            <i></i><i></i><i></i>
-                        </div>
-                        <div className="browser-body">
-                            <h2 className="txt-orange">Projects</h2>
-                        </div>
-                    </div>
+                    <h2 className="txt-orange">Projects</h2>
                 </div>
-                <div className="col-12 col-xs-12">
+                <div className="col-6 col-xs-12">
                     <div className="browser">
                         <div className="browser-header">
                             <i></i><i></i><i></i>
@@ -30,18 +23,18 @@ function Projects() {
                         </div>
                     </div>
                 </div>
-                <div className="col-12 col-xs-12">
+                <div className="col-6 col-xs-12">
                     <div className="browser">
                         <div className="browser-header">
                             <i></i><i></i><i></i>
                         </div>
                         <div className="browser-body">
                             <div className="image">
-                                <img className="projects-image" src="img/todolist.png" alt="To Do List" />
+                                <img className="projects-image" src="img/todoreactjs.png" alt="To Do List" />
                             </div>
-                            <h2 className="txt-orange">To Do List</h2>
-                            <p className="txt-white fs-18">Laravel 8, Mysql, and Vue JS</p>
-                            <a className="btn fs-18" href="https://github.com/hastabudiawan/todolist-laravel-vue.git" target="_blank" rel="noopener noreferrer">Source</a>
+                            <h2 className="txt-orange">Todo App ReactJS</h2>
+                            <p className="txt-white fs-18">React JS, SCSS</p>
+                            <a className="btn fs-18" href="https://github.com/hastabudiawan/to-do-app-react.js.git" target="_blank" rel="noopener noreferrer">Source</a>
                         </div>
                     </div>
                 </div>
@@ -52,11 +45,11 @@ function Projects() {
                         </div>
                         <div className="browser-body">
                             <div className="image">
-                                <img className="projects-image" src="img/contactapp.png" alt="Contact App" />
+                                <img className="projects-image" src="img/pokemonapp.png" alt="Pokemon App" />
                             </div>
-                            <h2 className="txt-orange">Contact App</h2>
-                            <p className="txt-white fs-18">Node JS, Express JS</p>
-                            <a className="btn fs-18" href="https://github.com/hastabudiawan/Contact-App-Nodejs.git" target="_blank" rel="noopener noreferrer">Source</a>
+                            <h2 className="txt-orange">Pokemon App</h2>
+                            <p className="txt-white fs-18">React JS, Redux, SCSS, Poke API</p>
+                            <a className="btn fs-18" href="https://github.com/hastabudiawan/pokemon-app.git" target="_blank" rel="noopener noreferrer">Source</a>
                         </div>
                     </div>
                 </div>                
