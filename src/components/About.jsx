@@ -13,13 +13,13 @@ function About() {
                             <div className="browser-body">
                                 <div className="about-me">
                                     <h2 className="txt-orange">About</h2>
-                                    <p className="txt-white fs-18">My name is Hasta Budiawan (he/him). My hometown is Tangerang, where I was born and reared. I began learning HTML, CSS, and Javascript in 2014, which marked the beginning of my programming career. My major programming languages are PHP and Javascript, though I also use Laravel, Node JS, Vue JS, and React JS as libraries and frameworks.</p>
+                                    <p className="txt-white fs-18">My name is Hasta Budiawan (he/him). My name is Hasta Budiawan. I'm a graduate of Informatics Engineering. Skilled in Javascript and various frameworks or libraries. I can make responsive websites, develop frontend like slicing design to code and integrate it with the backend.</p>
                                 </div>
                                 <div className="skills">
                                     <h2 className="txt-orange">Skills</h2>
                                     <ul className="skills-set txt-white fs-18">
-                                        <li>Programming Language : PHP, Javascript</li>
-                                        <li>Framework : Laravel, React JS, Vue JS, Angular, Typescript, jQuery, Bootstrap, Tailwind CSS</li>
+                                        <li>Programming Language :HTML5, CSS3, Javascript</li>
+                                        <li>Framework : React JS, Vue JS, Typescript, jQuery, Bootstrap, Tailwind CSS</li>
                                         <li>Database: MySQL</li>
                                         <li>Version Control: GIT</li>
                                     </ul>
@@ -34,12 +34,12 @@ function About() {
                                 <div className="contact">
                                     <h2 className="txt-orange">Contact</h2>
                                     <div className="contact-link">
-                                        <a className="txt-white fs-18" href="mailto:hastabudiawan8@gmail.com" target="_blank" rel="noopener noreferrer">
+                                        <p><a className="txt-white fs-18" href="mailto:hastabudiawan8@gmail.com" target="_blank" rel="noopener noreferrer">
                                             hastabudiawan8@gmail.com
-                                        </a>
-                                        <a className="txt-white fs-18" href="https://github.com/hastabudiawan" target="_blank" rel="noopener noreferrer">
+                                        </a></p>
+                                        <p><a className="txt-white fs-18" href="https://github.com/hastabudiawan" target="_blank" rel="noopener noreferrer">
                                             Github/hastabudiawan
-                                        </a>
+                                        </a></p>
                                     </div>
                                 </div>
                             </div>
