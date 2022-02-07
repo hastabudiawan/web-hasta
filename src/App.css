@@ -212,14 +212,6 @@ h2 {
 .skills-set {
   margin: 20px;
 }
-.contact-link {
-  display: -webkit-flex;
-  display: -moz-flex;
-  display: -ms-flex;
-  display: -o-flex;
-  display: flex;
-  flex-direction: column;
-}
 .contact-link a {
   text-decoration: none;
 }
