@@ -38,7 +38,22 @@ function Projects() {
                         </div>
                     </div>
                 </div>
-                <div className="col-12 col-xs-12">
+                <div className="col-6 col-xs-12">
+                    <div className="browser">
+                        <div className="browser-header">
+                            <i></i><i></i><i></i>
+                        </div>
+                        <div className="browser-body">
+                            <div className="image">
+                                <img className="projects-image" src="img/restaurantapp.png" alt="Restaurant App" />
+                            </div>
+                            <h2 className="txt-orange">Restaurant App</h2>
+                            <p className="txt-white fs-18">Vue JS, Axios, Bootstrap</p>
+                            <a className="btn fs-18" href="https://github.com/hastabudiawan/restaurant-app-vue.git" target="_blank" rel="noopener noreferrer">Source</a>
+                        </div>
+                    </div>
+                </div>
+                <div className="col-6 col-xs-12">
                     <div className="browser">
                         <div className="browser-header">
                             <i></i><i></i><i></i>
