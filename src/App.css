@@ -301,8 +301,6 @@ h2 {
       left: 0;
       right: 0;
       z-index: 1000;
-      margin: 10px;
-      border-radius: 10px;
   }
   .nav-link, .nav-items {
       width: 100%;
