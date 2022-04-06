@@ -13,7 +13,7 @@ function About() {
                             <div className="browser-body">
                                 <div className="about-me">
                                     <h2 className="txt-orange">About</h2>
-                                    <p className="txt-white fs-18">My name is Hasta Budiawan (he/him). I'm a graduate of Informatics Engineering. Skilled in Javascript and various frameworks or libraries. I can make responsive websites, develop frontend like slicing design to code and integrate it with the backend.</p>
+                                    <p className="txt-white fs-18">My name is Hasta Budiawan (he/him). I'm a graduate of Informatics Engineering. Proficient in Javascript and various frameworks. I can develop frontend like slicing design to code, responsive webpages, able to create webpages with a framework, and integrate it with the backend.</p>
                                 </div>
                                 <div className="skills">
                                     <h2 className="txt-orange">Skills</h2>
