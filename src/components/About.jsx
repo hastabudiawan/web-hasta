@@ -18,8 +18,8 @@ function About() {
                                 <div className="skills">
                                     <h2 className="txt-orange">Skills</h2>
                                     <ul className="skills-set txt-white fs-18">
-                                        <li>Programming Language : HTML5, CSS3, Javascript</li>
-                                        <li>Framework : React JS, Vue JS, Typescript, jQuery, Bootstrap, Tailwind CSS</li>
+                                        <li>Programming Language : HTML5, CSS3, Javascript, Typescript</li>
+                                        <li>Framework : React JS, Vue JS, jQuery, Bootstrap, Tailwind CSS</li>
                                         <li>Database: MySQL</li>
                                         <li>Version Control: GIT</li>
                                     </ul>
