@@ -13,7 +13,7 @@ function Home() {
                         <div className="browser-body txt-blue fs-18 line-height">
                             <p>
                                 const
-                                <span className="txt-white"> fullName </span>
+                                <span className="txt-white"> name </span>
                                 <span className="txt-purple">= </span>
                                 <span className="txt-gold">'Hasta Budiawan'</span>
                             </p>
